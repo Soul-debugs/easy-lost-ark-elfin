@@ -199,4 +199,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*Lost Ark · Updated 2026-11-22 · Shared under the MIT License*
+*Lost Ark · Updated 2026-11-23 · Shared under the MIT License*
